@@ -1,4 +1,4 @@
-![Devina](github-header-image.png)
+![Devina](img/github-header-image3.png)
 
 #### What I do
 
