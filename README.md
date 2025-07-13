@@ -1,16 +1,13 @@
-## Hi there 👋
+![Devina](github-header-image.png)
 
-<!--
-**deviknow/deviknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I do
 
-Here are some ideas to get you started:
+- Exploring CodeIgniter 4 & PHP
+- Building simple web projects
+- Learning quietly, growing steadily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql)](https://skillicons.dev)
+
+##### connect with me
+
+![https://instagram.com/dvnnasj](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
