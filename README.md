@@ -1,6 +1,8 @@
 ![Devina](img/github-header-image3.png)
 
-#### What I do
+---
+
+#### 💻 What I Do
 
 - Exploring CodeIgniter 4 & PHP
 - Building simple web projects
@@ -8,11 +10,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql)](https://skillicons.dev)
 
-##### Connect with me
+---
 
-![https://instagram.com/dvnnasj](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+#### 📡 Connect with Me
 
-##### 💿 My Current Vibes
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dvnnasj)
+
+---
+
+#### 💿 My Current Vibes
 
 <div align="center">
   <a href="https://open.spotify.com/user/31geh22y6cpiot3af23vd2bvrxnm">
@@ -20,12 +26,12 @@
   </a>
 </div>
 
-##### 👾 Game on
+---
 
-###
+#### 👾 Game On
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deviknow/deviknow/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deviknow/deviknow/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deviknow/deviknow/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man GitHub contribution graph" src="https://raw.githubusercontent.com/deviknow/deviknow/output/pacman-contribution-graph.svg">
 </picture>
